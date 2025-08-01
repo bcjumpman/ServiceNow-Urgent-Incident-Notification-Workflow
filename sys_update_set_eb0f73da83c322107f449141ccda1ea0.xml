@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-08-01 21:25:39">
+<sys_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<base_update_set display_value=""/>
+<batch_install_plan display_value=""/>
+<completed_by display_value=""/>
+<completed_on>2025-08-01 18:19:02</completed_on>
+<description>Creates urgent incident notifications and activates workflow for the networking operations team</description>
+<install_date/>
+<installed_from/>
+<is_default>false</is_default>
+<merged_to display_value=""/>
+<name>Critical Network Incidents Notification </name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_sys_id display_value=""/>
+<state>in progress</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-01 18:21:47</sys_created_on>
+<sys_id>eb0f73da83c322107f449141ccda1ea0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-01 18:21:47</sys_updated_on>
+</sys_update_set>
+</unload>
