@@ -14,8 +14,9 @@ The system automatically sends email alerts to the Network Operations team whene
 - Regulatory scrutiny
 - SLA breaches due to delayed response times
 
-**Root Cause:** Critical network incidents weren't triggering email notifications to the Network Operations team.
+**Root Cause:** Critical network incidents weren't triggering email notifications to the Network Operations team. Urgency condition was set to Medium, and assignment group was empty.
 ![Original conditional notification](https://github.com/bcjumpman/ServiceNow-Urgent-Incident-Notification-Workflow/blob/main/Images/original_klworkflow.png) 
+
 
 ## Solution Implementation
 
